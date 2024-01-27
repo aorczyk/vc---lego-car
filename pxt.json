@@ -8,7 +8,6 @@
         "PF Transmitter": "github:aorczyk/lego-pf-transmitter#master"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md"
     ],
